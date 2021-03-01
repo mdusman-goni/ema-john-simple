@@ -1,0 +1,24 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid #808080;
+    margin-left: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+.products-img{
+    margin-left: 10px;
+}
+.products-details h3{
+    color: #FF9800;
+}
+.products-details{
+    margin-left: 30px;
+}   
+.cart-button{
+    color: #fff;
+    background-color: #FF9800;
+    height: 30px;
+    width: 150px;
+    border: 1px solid #808080;
+    border-radius: 5px;
+}
